@@ -1,5 +1,8 @@
 _repo: Pensaci-Giacomino_64680
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64680-h/images/cover.jpg
 creator:
   author:
     agent_name: Pirandello, Luigi
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Luigi_Pirandello
     - https://it.wikipedia.org/wiki/Luigi_Pirandello
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64680#Pensaci-Giacomino
 gutenberg_issued: '2021-03-03'
 gutenberg_type: Text
 identifiers:
